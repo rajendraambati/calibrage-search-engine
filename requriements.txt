@@ -1,7 +1,0 @@
-streamlit
-selenium
-pandas
-beautifulsoup4
-requests
-lxml
-openpyxl
